@@ -1,1 +1,8 @@
-# social_media_analytics_hw1
+# social_media_analytics
+## Authors:
+### Logan Liu
+### Aifaz Gowani
+### Shane Kok
+### Gabriel James
+### Vinay Khanijow
+### Ryan Harty
